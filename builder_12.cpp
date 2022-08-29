@@ -67,5 +67,5 @@ int main(){
 	cout << endl;
 	
 	Supermarket objForSearch;
-	objForSearch.searchSupermarket(market, Search);
+	objForSearch.searchSupermarket(market, search);
 }
