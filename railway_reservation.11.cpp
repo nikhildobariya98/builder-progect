@@ -54,5 +54,5 @@ int main(){
 	cout << endl;
 	
 	Train objForSearch;
-	objForSearch.searchTrain(train, 2);
+	objForSearch.searchTrain(train, search);
 }
