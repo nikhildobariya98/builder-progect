@@ -28,9 +28,7 @@ class Supermarket{
 		cout << "ID: " << market[i].id << endl << "Password: " <<market[i]. password << endl << "Number: " << market[i].number << endl 
 << "Name: " << market[i].name << endl << "Discount: " << market[i].discount << endl  << "Quantity: " << market[i].quantity << endl 
 << "Tax: " << market[i].tax << endl;
-//				cout << "Train Details: " << endl;
-//				cout << "ID: " << train[i].id << endl << "Name: " << train[i].name << endl << "Source: " << train[i].source << endl 
-//				<< "Destination: " << train[i].destination << endl << "Time: " << train[i].time << endl;
+
 			}
 		}
 	}
